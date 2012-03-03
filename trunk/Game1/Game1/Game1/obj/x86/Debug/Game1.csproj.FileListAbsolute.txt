@@ -1,0 +1,11 @@
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Content\chao.xnb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Content\plano.xnb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Content\Odin1.xnb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Content\caixa.xnb
+C:\Users\devs103b\Desktop\Nova pasta\Game1\Game1\Game1\bin\x86\Debug\Content\esfera.xnb

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Alien Probe\FBX\probe.fbx</Source>
+      <Name>Alien Probe\FBX\probe</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\FBX\probe.xnb</Output>
+      <Time>2012-02-25T10:36:45.7167609-02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Alien Probe\FBX\probe_0.xml</Key>
+        <Value>2012-02-25T13:15:40.1876846-02:00</Value>
+      </Dependency>
+      <Request>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_col_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Space_Shooter.fbx</Source>
+      <Name>Space Shooter\Space_Shooter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.xnb</Output>
+      <Time>2012-02-25T10:37:29.2249634-02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Space Shooter\Space_Shooter_0.xml</Key>
+        <Value>2012-02-25T13:15:38.7805535-02:00</Value>
+      </Dependency>
+      <Request>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\FBX\E7E822B7\Space_Shooter.fbm\1K_Body-TXTR_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Space_Shooter.fbm\1K_Body-NM.jpg</Source>
+      <Name>Space Shooter\Space_Shooter.fbm\1K_Body-NM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Body-NM.xnb</Output>
+      <Time>2012-02-25T10:36:50.5528539-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Space_Shooter.fbm\1K_Body-TXTR.jpg</Source>
+      <Name>Space Shooter\Space_Shooter.fbm\1K_Body-TXTR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Body-TXTR.xnb</Output>
+      <Time>2012-02-25T10:36:50.5528539-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Space_Shooter.fbm\1K_Spec.jpg</Source>
+      <Name>Space Shooter\Space_Shooter.fbm\1K_Spec</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Spec.xnb</Output>
+      <Time>2012-02-25T10:36:50.5528539-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Textures\1K_Body-NM.jpg</Source>
+      <Name>Space Shooter\Textures\1K_Body-NM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Body-NM.xnb</Output>
+      <Time>2012-02-25T10:37:04.2416475-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Textures\1K_Body-TXTR.jpg</Source>
+      <Name>Space Shooter\Textures\1K_Body-TXTR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Body-TXTR.xnb</Output>
+      <Time>2012-02-25T10:37:04.2728481-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Textures\1K_Spec.jpg</Source>
+      <Name>Space Shooter\Textures\1K_Spec</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Spec.xnb</Output>
+      <Time>2012-02-25T10:37:04.2728481-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien Probe\textures\Probe_col.png</Source>
+      <Name>Alien Probe\textures\Probe_col</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_col.xnb</Output>
+      <Time>2012-02-25T10:37:30.7731182-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien Probe\textures\Probe_nrm.png</Source>
+      <Name>Alien Probe\textures\Probe_nrm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_nrm.xnb</Output>
+      <Time>2012-02-25T10:37:30.7661175-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Shooter\Space_Shooter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Space Shooter\Space_Shooter_0.xml</Output>
+      <Time>2012-02-25T10:37:29.2249634-02:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\E7E822B7\Space_Shooter.fbm\1K_Body-TXTR.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\FBX\E7E822B7\Space_Shooter.fbm\1K_Body-TXTR_0.xnb</Output>
+      <Time>2012-02-25T13:15:38.6695424-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien Probe\FBX\probe.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Alien Probe\FBX\probe_0.xml</Output>
+      <Time>2012-02-25T10:36:45.7167609-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien Probe\textures\Probe_col.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_col_0.xnb</Output>
+      <Time>2012-02-25T10:37:30.7731182-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\devs103b\Desktop\projeto\nave\nave\naveContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\devs103b\Desktop\projeto\nave\nave\naveContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-20T14:50:06.9468927-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
