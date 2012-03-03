@@ -1,0 +1,14 @@
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\caixa.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\plano.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\chao.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mapadeluzes.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\video.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\video2.xnb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\video.wmv
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\video2.wmv
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\devs103b\Desktop\projeto\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

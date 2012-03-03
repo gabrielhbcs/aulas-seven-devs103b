@@ -1,0 +1,18 @@
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\FBX\probe.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Body-NM.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Body-TXTR.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Space_Shooter.fbm\1K_Spec.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Body-NM.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Body-TXTR.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Space Shooter\Textures\1K_Spec.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_col.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_nrm.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\FBX\E7E822B7\Space_Shooter.fbm\1K_Body-TXTR_0.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\Content\Alien Probe\textures\Probe_col_0.xnb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\nave.exe
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\bin\x86\Debug\nave.pdb
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\obj\x86\Debug\nave.exe
+C:\Users\devs103b\Desktop\projeto\nave\nave\nave\obj\x86\Debug\nave.pdb
